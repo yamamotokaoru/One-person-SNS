@@ -1,7 +1,7 @@
-# One-person-SNS
+# OMB　Blog
 ## サイト概要
 SNSにあげたい…でも友達に見られるのが嫌であげるのが怖い。。。
-そんな人たちに誰にも見られず自分専用のSNSサイトを用意しました
+そんな人たちに誰にも見られず自分専用のblogサイトを用意しました
 
 ### サイトテーマ
 -自分専用のSNSが欲しかった人たちへ
@@ -28,4 +28,3 @@ https://docs.google.com/spreadsheets/d/1zEXquZZ8XUvJn-URkcRfrrvKS2EwSecMJO3I3MTS
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
-- 仮想環境：Vagrant,VirtualBox
